@@ -1,1 +1,1 @@
-Petit test de démarrage !
+Test de démarrage !
